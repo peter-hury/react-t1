@@ -11,4 +11,4 @@ function App() {
 }
 
 export default App
-'3230134219@qq.com'
+'3230134219@qq.com 1'
